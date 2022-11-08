@@ -94,8 +94,10 @@ font-size: 14px;
 line-height: 1.1428;
 letter-spacing: 0.02em;
 color: var(--text-color);
-display: flex;
-gap: 50px;
+}
+.list-nav {
+    display: flex;
+    gap: 50px;
 }
 
 .header-contacts:hover,
