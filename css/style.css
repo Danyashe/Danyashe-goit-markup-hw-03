@@ -47,7 +47,6 @@ button {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    outline: 2px solid red;
 }
 
 .header-nav {
@@ -303,6 +302,9 @@ color: rgba(255, 255, 255, 0.6);
 
 .title-cards {
     padding: 20px 24px;
+    border-right: 1px solid #EEEEEE;
+    border-bottom: 1px solid #EEEEEE;
+    border-left: 1px solid #EEEEEE;
 }
 
 .filtr{
