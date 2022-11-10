@@ -253,6 +253,10 @@ margin-bottom: 30px;
     margin-bottom: 20px;
 }
 
+.contacts {
+font-style: normal;
+}
+
 .contacts-text {
 font-size: 14px;
 line-height: 1.7143;
@@ -260,6 +264,7 @@ color: #FFFFFF;
 margin-bottom: 9px;
 }
 .contacts-title {
+text-decoration: none;
 font-size: 14px;
 line-height: 1.7143;
 color: rgba(255, 255, 255, 0.6);
